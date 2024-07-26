@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("AMLClassifierLogger")
+logger = logging.getLogger("DemandForecastLogger")
